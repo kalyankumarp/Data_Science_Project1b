@@ -1,4 +1,6 @@
 # CS 418 Data_Science_Project1b
+FOR PART 1, please go to this link: https://github.com/kalyankumarp/US-Senate-Elections-2018-Part-1
+
 Regression, Classification and Clustering
 
 . Standardized the dataset and split the dataset into training (80%) and test (20%) dataset using holdout method with sklearn library.
